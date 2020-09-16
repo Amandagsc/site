@@ -1,0 +1,44 @@
+@charset "UTF-8";
+
+body{
+    background-color: rgb(226, 223, 223);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+img{ position: absolute;
+   top: 20%;
+   right: 15%;
+}
+nav{position: absolute;
+    top: 8%;
+    left: 10%;
+    
+}
+a{
+    text-decoration: none;
+    margin-right: 70px;
+    color:rgb(6, 134, 107);
+    font-size: 25px;
+}
+
+input{background-color: rgb(6, 134, 107);
+    border-radius: 25px;  
+    width: 120px;
+    height: 42px;
+    font-size: 20px;
+    color: white;
+}
+h1{
+    position: absolute;
+    top: 48%;
+    left:10%;
+}
+h2{
+    position: absolute;
+    top: 55%;
+    left:10%;
+}
+form{
+    position: absolute;
+    top: 65%;
+    left:10%;
+}

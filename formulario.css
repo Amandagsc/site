@@ -1,0 +1,58 @@
+@charset "UTF-8";
+
+body{
+    background-color: rgb(226, 223, 223);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+nav{
+    position: absolute;
+    top: 8%;
+    left: 10%;
+    border-bottom:5px solid rgb(218, 214, 214);
+     
+}
+a{
+    text-decoration: none;
+    margin-right: 70px;
+    font-size: 25px;
+    color: rgb(6, 134, 107);
+}
+input{
+    border: none;
+    background: none;
+    font-size: 16px;  
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 500px;
+    border-bottom: 1px solid rgb(196, 193, 193);  
+}
+
+h1{
+    position: absolute;
+    top: 20%;
+    left: 30%;
+}
+#f1{
+    position: absolute;
+    top: 37%;
+    left: 10%;
+}
+#f2{
+    position: absolute;
+    top: 37%;
+    left: 50%;
+}
+#f3{
+    position: absolute;
+    top: 49%;
+    left: 10%;
+}
+#message{
+    position: absolute;
+    top: 59%;
+    left: 10%;
+}
+#f5{
+    position: absolute;
+    top: 69%;
+    left: 10%;
+}
