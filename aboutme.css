@@ -61,3 +61,7 @@
         height: 3px;
         background-color:  rgb(6, 134, 107);
     }
+    p{
+        text-indent: 25px;
+        text-align: justify;
+    }
